@@ -1,0 +1,521 @@
+2025-09-06 09:08:06 - logGUI - INFO - init GUI[0m
+2025-09-06 09:10:16 - logGUI - INFO - init GUI[0m
+2025-09-06 09:11:01 - logGUI - INFO - init GUI[0m
+2025-09-06 09:12:41 - logGUI - INFO - init GUI[0m
+2025-09-06 09:13:26 - logGUI - INFO - init GUI[0m
+2025-09-06 09:14:48 - logGUI - INFO - init GUI[0m
+2025-09-06 09:19:29 - logGUI - INFO - init GUI[0m
+2025-09-06 09:20:24 - logGUI - INFO - init GUI[0m
+2025-09-06 09:21:24 - logGUI - INFO - init GUI[0m
+2025-09-06 09:21:43 - logGUI - INFO - init GUI[0m
+2025-09-06 09:23:01 - logGUI - INFO - init GUI[0m
+2025-09-06 09:23:38 - logGUI - INFO - init GUI[0m
+2025-09-06 09:25:14 - logGUI - INFO - init GUI[0m
+2025-09-06 09:26:35 - logGUI - INFO - init GUI[0m
+2025-09-06 09:28:09 - logGUI - INFO - init GUI[0m
+2025-09-06 09:28:33 - logGUI - INFO - init GUI[0m
+2025-09-06 09:28:42 - logGUI - INFO - init GUI[0m
+2025-09-06 09:29:16 - logGUI - INFO - init GUI[0m
+2025-09-06 09:30:02 - logCamera - INFO - Init constructor RunCamera[0m
+2025-09-06 09:30:03 - logCamera - INFO - Creating Thread in start camera[0m
+2025-09-06 09:30:38 - logGUI - INFO - init GUI[0m
+2025-09-06 09:30:39 - logCamera - INFO - Init constructor RunCamera[0m
+2025-09-06 09:30:40 - logCamera - INFO - Creating Thread in start camera[0m
+2025-09-06 09:30:49 - logGUI - INFO - init GUI[0m
+2025-09-06 09:30:50 - logCamera - INFO - Init constructor RunCamera[0m
+2025-09-06 09:30:51 - logCamera - INFO - Creating Thread in start camera[0m
+2025-09-06 09:32:11 - logGUI - INFO - init GUI[0m
+2025-09-06 09:32:12 - logCamera - INFO - Init constructor RunCamera[0m
+2025-09-06 09:32:13 - logCamera - INFO - Creating Thread in start camera[0m
+2025-09-06 09:32:20 - logCamera - WARNING - Frame vacío en RunCamera.get() o video terminado[0m
+2025-09-06 09:35:27 - logGUI - INFO - init GUI[0m
+2025-09-06 09:35:28 - logCamera - INFO - Init constructor RunCamera[0m
+2025-09-06 09:35:29 - logCamera - INFO - Creating Thread in start camera[0m
+2025-09-06 09:35:35 - logCamera - WARNING - Frame vacío en RunCamera.get() o video terminado[0m
+2025-09-06 09:35:38 - logGUI - INFO - init GUI[0m
+2025-09-06 09:35:40 - logCamera - INFO - Init constructor RunCamera[0m
+2025-09-06 09:35:41 - logCamera - INFO - Creating Thread in start camera[0m
+2025-09-06 10:30:12 - logGUI - INFO - init GUI[0m
+2025-09-06 10:30:14 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:30:14 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:30:15 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:30:15 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:30:27 - logGUI - INFO - init GUI[0m
+2025-09-06 10:30:28 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:30:28 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:30:29 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:30:29 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:32:11 - logGUI - INFO - init GUI[0m
+2025-09-06 10:32:12 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:32:12 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:32:13 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:32:13 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:38:23 - logGUI - INFO - init GUI[0m
+2025-09-06 10:38:26 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:38:26 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:38:27 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:38:27 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:39:34 - logGUI - INFO - init GUI[0m
+2025-09-06 10:39:36 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:39:36 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:39:37 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:39:37 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:40:10 - logGUI - INFO - init GUI[0m
+2025-09-06 10:40:12 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:40:12 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:40:13 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:40:13 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:43:33 - logGUI - INFO - init GUI[0m
+2025-09-06 10:43:35 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:43:35 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:43:36 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:43:36 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:44:18 - logGUI - INFO - init GUI[0m
+2025-09-06 10:44:20 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:44:20 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:44:21 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:44:21 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:47:23 - logGUI - INFO - init GUI[0m
+2025-09-06 10:47:24 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:47:24 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:47:25 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:47:25 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:48:42 - logGUI - INFO - init GUI[0m
+2025-09-06 10:48:43 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:48:43 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:48:44 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:48:44 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:48:49 - logGUI - INFO - init GUI[0m
+2025-09-06 10:48:51 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:48:51 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:48:52 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:48:52 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:49:29 - logGUI - INFO - init GUI[0m
+2025-09-06 10:49:30 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:49:30 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:49:31 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:49:31 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:51:04 - logGUI - INFO - init GUI[0m
+2025-09-06 10:51:06 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:51:06 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:51:07 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:51:07 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:54:50 - logGUI - INFO - init GUI[0m
+2025-09-06 10:54:51 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:54:51 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:54:52 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:54:52 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:54:54 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:54:54 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 10:54:56 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:54:56 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 10:54:57 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:54:57 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 10:54:58 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:54:58 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:55:00 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:55:00 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:55:01 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:55:01 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:55:03 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:55:03 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:55:04 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:55:04 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:55:06 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:55:06 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:55:07 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:55:07 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:57:37 - logGUI - INFO - init GUI[0m
+2025-09-06 10:57:39 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:57:39 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:57:40 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:57:40 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:57:42 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:57:42 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 10:57:50 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:57:50 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:57:51 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:57:51 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:57:54 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:57:54 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 10:58:01 - logGUI - INFO - init GUI[0m
+2025-09-06 10:58:02 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:58:02 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:58:03 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:58:03 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:58:05 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:58:05 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 10:59:34 - logGUI - INFO - init GUI[0m
+2025-09-06 10:59:35 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 10:59:35 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 10:59:36 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 10:59:36 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 10:59:39 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:59:39 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 10:59:40 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:59:40 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 10:59:41 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:59:41 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 10:59:43 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:59:43 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:59:44 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:59:44 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:59:46 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:59:46 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:59:47 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:59:47 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 10:59:49 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 10:59:49 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:01:11 - logGUI - INFO - init GUI[0m
+2025-09-06 11:01:12 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:01:12 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:01:13 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:01:13 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:01:16 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:16 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:01:17 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:17 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:01:18 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:18 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:01:20 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:20 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:01:21 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:21 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:01:22 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:22 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:01:24 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:24 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:01:25 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:25 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:01:27 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:27 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:01:28 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:01:28 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:03:09 - logGUI - INFO - init GUI[0m
+2025-09-06 11:03:10 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:03:10 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:03:11 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:03:11 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:03:13 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:13 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:03:14 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:14 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:03:15 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:15 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:03:17 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:17 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:03:18 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:18 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:03:20 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:20 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:03:21 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:21 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:03:23 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:23 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:03:24 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:24 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:03:25 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:03:25 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:07:17 - logGUI - INFO - init GUI[0m
+2025-09-06 11:07:19 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:07:19 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:07:20 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:07:20 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:07:22 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:22 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:07:23 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:23 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:07:25 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:25 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:07:26 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:26 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:07:27 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:27 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:07:29 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:29 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:07:30 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:30 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:07:32 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:32 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:07:33 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:33 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:07:34 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:07:34 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:10:54 - logGUI - INFO - init GUI[0m
+2025-09-06 11:10:56 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:10:56 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:10:57 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:10:57 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:10:59 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:10:59 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:11:01 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:11:01 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:11:02 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:11:02 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:11:03 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:11:03 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:11:05 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:11:05 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:11:06 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:11:06 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:11:08 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:11:08 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:11:09 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:11:09 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:11:11 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:11:11 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:11:12 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:11:12 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:17:41 - logGUI - INFO - init GUI[0m
+2025-09-06 11:26:00 - logGUI - INFO - init GUI[0m
+2025-09-06 11:26:01 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:26:01 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:26:02 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:26:02 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:27:40 - logGUI - INFO - init GUI[0m
+2025-09-06 11:27:42 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:27:42 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:27:43 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:27:43 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:27:48 - logGUI - INFO - init GUI[0m
+2025-09-06 11:27:50 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:27:50 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:27:51 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:27:51 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:28:27 - logGUI - INFO - init GUI[0m
+2025-09-06 11:28:28 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:28:28 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:28:29 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:28:29 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:28:31 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:31 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:28:32 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:32 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:28:33 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:33 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:28:35 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:35 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:28:36 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:36 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:28:38 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:38 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:28:39 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:39 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:28:41 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:41 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:28:42 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:42 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:28:43 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:28:43 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:29:21 - logGUI - INFO - init GUI[0m
+2025-09-06 11:29:22 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:29:22 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:29:23 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:29:23 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:29:25 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:25 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:29:27 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:27 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:29:28 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:28 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:29:30 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:30 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:29:31 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:31 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:29:32 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:32 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:29:34 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:34 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:29:35 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:35 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:29:36 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:36 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:29:38 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:29:38 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:32:30 - logGUI - INFO - init GUI[0m
+2025-09-06 11:32:45 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:32:45 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:32:46 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:32:46 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:32:48 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:48 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:32:49 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:49 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:32:50 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:50 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:32:52 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:52 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:32:53 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:53 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:32:54 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:54 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:32:56 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:56 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:32:57 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:57 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:32:58 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:58 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:32:59 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:32:59 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:33:13 - logGUI - INFO - init GUI[0m
+2025-09-06 11:33:15 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 11:33:15 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 11:33:16 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 11:33:16 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 11:33:18 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:18 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:33:19 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:19 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:33:20 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:20 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 11:33:22 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:22 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:33:23 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:23 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:33:25 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:25 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:33:26 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:26 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 11:33:28 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:28 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:33:29 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:29 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 11:33:30 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 11:33:30 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:46:20 - logGUI - INFO - init GUI[0m
+2025-09-06 13:47:03 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 13:47:03 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 13:47:04 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 13:47:04 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 13:47:06 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:06 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:47:08 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:08 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:47:09 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:09 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:47:10 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:10 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:47:11 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:11 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:47:13 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:13 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:47:14 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:14 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:47:15 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:15 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:47:17 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:17 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:47:18 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:47:18 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:49:11 - logGUI - INFO - init GUI[0m
+2025-09-06 13:49:45 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 13:49:45 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 13:49:46 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 13:49:46 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 13:49:48 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:49:48 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:49:49 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:49:49 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:49:51 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:49:51 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:49:52 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:49:52 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:49:54 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:49:54 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:49:55 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:49:55 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:49:57 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:49:57 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:49:58 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:49:58 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:49:59 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:49:59 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:50:00 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:00 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:50:18 - logGUI - INFO - init GUI[0m
+2025-09-06 13:50:27 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 13:50:27 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 13:50:28 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 13:50:28 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 13:50:30 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:30 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:50:31 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:31 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:50:32 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:32 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:50:34 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:34 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:50:35 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:35 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:50:36 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:36 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:50:38 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:38 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:50:39 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:39 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:50:40 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:40 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:50:41 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:50:41 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:51:59 - logGUI - INFO - init GUI[0m
+2025-09-06 13:52:05 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 13:52:05 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 13:52:06 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 13:52:06 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 13:52:08 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:08 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:52:10 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:10 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:52:11 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:11 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:52:12 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:12 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:52:13 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:13 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:52:15 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:15 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:52:16 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:16 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:52:17 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:17 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:52:19 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:19 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:52:20 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:20 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:52:42 - logGUI - INFO - init GUI[0m
+2025-09-06 13:52:44 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2025-09-06 13:52:44 - Classifier_1 - INFO - Video FPS: 120.0[0m
+2025-09-06 13:52:45 - Classifier_1 - INFO - Creating Camera thread[0m
+2025-09-06 13:52:45 - Classifier_1 - INFO - Starting thread, time between frames is 0.008333[0m
+2025-09-06 13:52:47 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:47 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:52:48 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:48 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:52:50 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:50 - Classifier_1 - INFO - Pieza a empacar[0m
+2025-09-06 13:52:51 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:51 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:52:52 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:52 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:52:54 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:54 - Classifier_1 - INFO - Pieza a refabricar[0m
+2025-09-06 13:52:55 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:55 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:52:56 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:56 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:52:57 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:57 - Classifier_1 - INFO - Pieza a perforar[0m
+2025-09-06 13:52:58 - Classifier_1 - INFO - Pieza en frame[0m
+2025-09-06 13:52:58 - Classifier_1 - INFO - Pieza a perforar[0m
+2026-03-14 12:19:43 - logGUI - INFO - init GUI[0m
+2026-03-14 12:23:15 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2026-03-14 12:23:22 - Classifier_1 - WARNING - Could not determine FPS for C:\Users\varga\OneDrive - Universidad EIA\Documents\Universidad EIA\Sexto Semestre\Vision_Artificial-Electiva\VA_Codes\ExamenParcial\video_2.mp4. Defaulting to 30.[0m
+2026-03-14 12:23:23 - Classifier_1 - WARNING - Camera not initialized[0m
+2026-03-14 12:24:14 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2026-03-14 12:24:25 - Classifier_1 - WARNING - Could not determine FPS for C:\Users\varga\OneDrive - Universidad EIA\Documents\Universidad EIA\Sexto Semestre\Vision_Artificial-Electiva\VA_Codes\ExamenParcial\video_2.mp4. Defaulting to 30.[0m
+2026-03-14 12:24:26 - Classifier_1 - WARNING - Camera not initialized[0m
+2026-03-14 12:24:59 - Classifier_1 - INFO - Init constructor RunCamera[0m
+2026-03-14 12:25:02 - Classifier_1 - WARNING - Could not determine FPS for C:\Users\varga\OneDrive - Universidad EIA\Documents\Universidad EIA\Sexto Semestre\Vision_Artificial-Electiva\VA_Codes\ExamenParcial\video_2.mp4. Defaulting to 30.[0m
+2026-03-14 12:25:03 - Classifier_1 - WARNING - Camera not initialized[0m
+2026-03-14 12:49:12 - logGUI - INFO - init GUI[0m
+2026-03-14 13:02:06 - logGUI - INFO - init GUI[0m
