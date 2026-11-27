@@ -1,0 +1,1 @@
+C:\Users\varga\OneDrive - Universidad EIA\Documents\Universidad EIA\Sexto Semestre\Vision_Artificial-Electiva\VA_Codes\images_quiz\images\trucks\05-42-01_002_2_scale_2.5.jpg

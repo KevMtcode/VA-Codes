@@ -1,0 +1,7 @@
+path: C:/Users/varga/OneDrive - Universidad EIA/Documents/Universidad EIA/Sexto Semestre/Vision_Artificial-Electiva/VA_Codes/YOLO-DeepLearning
+train: C:/Users/varga/OneDrive - Universidad EIA/Documents/Universidad EIA/Sexto Semestre/Vision_Artificial-Electiva/VA_Codes/train
+val: C:/Users/varga/OneDrive - Universidad EIA/Documents/Universidad EIA/Sexto Semestre/Vision_Artificial-Electiva/VA_Codes/test
+nc: 2 # number of  classes
+names:
+  0: "car"
+  1: "truck"

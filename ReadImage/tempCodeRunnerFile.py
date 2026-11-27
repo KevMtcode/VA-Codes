@@ -1,0 +1,1 @@
+get_pixel_value(imageBgr, j, i)[0]
